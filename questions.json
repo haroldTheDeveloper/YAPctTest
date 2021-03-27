@@ -1,0 +1,270 @@
+{
+	"1": {
+		"text": "Universal health care is epicness.",
+		"strongly agree": {
+			"economy": -1,
+			"social": 0	
+		},
+		"agree": {
+			"economy": -0.5,
+			"social": 0	
+		},
+		"disagree": {
+			"economy": 0.5,
+			"social": 0
+		},
+		"strongly disagree": {
+			"economy": 1,
+			"social": 0
+		}
+	},
+
+	"2": {
+		"text": "The more free the market, the more free the people.",
+		"strongly agree": {
+			"economy": 1,
+			"social": 0	
+		},
+		"agree": {
+			"economy": 0.75,
+			"social": 0
+		},
+		"disagree": {
+			"economy": 0,
+			"social": 0
+		},
+		"strongly disagree": {
+			"economy": -0.25,
+			"social": 0
+		}
+	},
+	
+	"3": {
+		"text": "Communism is bad.",
+		"strongly agree": {
+			"economy": 1,
+			"social": 0	
+		},
+		"agree": {
+			"economy": 0.75,
+			"social": 0
+		},
+		"disagree": {
+			"economy": 0,
+			"social": 0
+		},
+		"strongly disagree": {
+			"economy": -0.25,
+			"social": 0
+		}
+	},
+		"4": {
+		"text": "I support organisations such as the European Union.",
+		"strongly agree": {
+			"economy": 0.25,
+			"social": 1	
+		},
+		"agree": {
+			"economy": 0,
+			"social": 0.25
+		},
+		"disagree": {
+			"economy": -0.25,
+			"social": 0
+		},
+		"strongly disagree": {
+			"economy": -0.25,
+			"social": 0
+		}
+	},
+		"5": {
+		"text": "I think trade unions have too much power.",
+		"strongly agree": {
+			"economy": 0.5,
+			"social": 0.2	
+		},
+		"agree": {
+			"economy": 0.3,
+			"social": 0
+		},
+		"disagree": {
+			"economy": -0.3,
+			"social": 0
+		},
+		"strongly disagree": {
+			"economy": -0.5,
+			"social": -0.2
+		}
+	},
+		"6": {
+		"text": "I agree with proportional representation in elections.",
+		"strongly agree": {
+			"economy": 0,
+			"social": -0.3	
+		},
+		"agree": {
+			"economy": 0,
+			"social": -0.2
+		},
+		"disagree": {
+			"economy": 0,
+			"social": 0.4
+		},
+		"strongly disagree": {
+			"economy": 0,
+			"social": 0.7
+		}
+	},
+		"7": {
+		"text": "Taxation is theft.",
+		"strongly agree": {
+			"economy": 0.5,
+			"social": -0.5	
+		},
+		"agree": {
+			"economy": 0.25,
+			"social": -0.25
+		},
+		"disagree": {
+			"economy": 0,
+			"social": 0
+		},
+		"strongly disagree": {
+			"economy": -0.1,
+			"social": 0.1
+		}
+	},
+		"8": {
+		"text": "All nations, regions and states should have the right to self-determination.",
+		"strongly agree": {
+			"economy": 0,
+			"social": -1	
+		},
+		"agree": {
+			"economy": 0,
+			"social": -0.75
+		},
+		"disagree": {
+			"economy": 0,
+			"social": 0.1
+		},
+		"strongly disagree": {
+			"economy": 0,
+			"social": 0.6
+		}
+	},
+		"9": {
+		"text": "All speech should be allowed, even that which is deemed offensive.",
+		"strongly agree": {
+			"economy": 0,
+			"social": -0.4	
+		},
+		"agree": {
+			"economy": 0,
+			"social": -0.1
+		},
+		"disagree": {
+			"economy": 0,
+			"social": 0.2
+		},
+		"strongly disagree": {
+			"economy": 0,
+			"social": 0.5
+		}
+	},
+		"10": {
+		"text": "Possesing and/or consuming drugs should be decriminalized.",
+		"strongly agree": {
+			"economy": -0.2,
+			"social": -0.6	
+		},
+		"agree": {
+			"economy": 0,
+			"social": -0.3
+		},
+		"disagree": {
+			"economy": 0,
+			"social": 0.2
+		},
+		"strongly disagree": {
+			"economy": 0.2,
+			"social": 0.4
+		}
+	},
+		"11": {
+		"text": "Extreme ideoligies should be outlawed.",
+		"strongly agree": {
+			"economy": -0,
+			"social": 1	
+		},
+		"agree": {
+			"economy": 0,
+			"social": 0.6
+		},
+		"disagree": {
+			"economy": 0,
+			"social": 0
+		},
+		"strongly disagree": {
+			"economy": 0,
+			"social": -0.2
+		}
+	},
+		"12": {
+		"text": "The state has a duty to provide basic neccesities to its people.",
+		"strongly agree": {
+			"economy": -0.6,
+			"social": 0.2	
+		},
+		"agree": {
+			"economy": -0.4,
+			"social": 0
+		},
+		"disagree": {
+			"economy": 0.3,
+			"social": -0.3
+		},
+		"strongly disagree": {
+			"economy": 0.8,
+			"social": -0.6
+		}
+	},
+		"13": {
+		"text": "People should have the right to deny service to someone on moral grounds due to their Sex or Gender identity.",
+		"strongly agree": {
+			"economy": 0,
+			"social": 0.2	
+		},
+		"agree": {
+			"economy": 0,
+			"social": 0
+		},
+		"disagree": {
+			"economy": 0,
+			"social": -0.1
+		},
+		"strongly disagree": {
+			"economy": 0,
+			"social": -0.4
+		}
+	},
+		"14": {
+		"text": "The rich are too highly taxed.",
+		"strongly agree": {
+			"economy": 0.5,
+			"social": -0.2	
+		},
+		"agree": {
+			"economy": 0.25,
+			"social": 0
+		},
+		"disagree": {
+			"economy": -0.3,
+			"social": 0
+		},
+		"strongly disagree": {
+			"economy": -0.5,
+			"social": 0.1
+		}
+	}
+}
